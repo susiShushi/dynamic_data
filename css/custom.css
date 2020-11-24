@@ -1000,11 +1000,11 @@ a img {
   }
 
   .excerpt-meta, .entry-meta {
-    padding-top: 3.69004em;
+    padding-top: 2.69004em;
   }
 
   .excerpt-content {
-    padding-bottom: 3em;
+    padding-bottom: 1.5em;
   }
 
   .full-without-featured:not(.has-post-thumbnail):not(.has-video):not(.has-featured-slider) .excerpt-container {
